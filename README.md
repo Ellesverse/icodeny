@@ -1,4 +1,4 @@
-#iCodeNY Web Application Instructions 
+##iCodeNY Web Application Instructions 
 
 1. Set up a new box on Nitrous.io: https://www.nitrous.io
 
